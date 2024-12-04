@@ -1,2 +1,3 @@
-# HojackBorseman
-Learning how to use this HUB one step at a time. Big Bojack Fan
+# About me
+
+**I'm all about data science baby!** ✨✨✨
