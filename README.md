@@ -1,7 +1,7 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Justin!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Justin! ##
 <br />
-### About Me 🚀
+### About Me 🚀 ###
 
 🎓 I'm an experienced **Data Scientist** with 3+ YOE.</br>
 🔨 Specialising in developing **ETL pipelines** with a focus on using **Machine learnings** tools (e.g. **MLFlow**, **SpaCy**, **Weightsandbiases**)</br>
