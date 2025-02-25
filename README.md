@@ -10,10 +10,6 @@
 👨‍💻 _Thinking of spending one long weekend RFI-tagging all my valuables so I dont have to buy an Apple Air Tag_ </br>
 
 
-### My Experiences 🙌
-
-- [Data Scientist @Willis Towers Watson] - Working as Data Scientist within the **Digital Strategy & Innovation** team
-
 ### Technical Skills 🛠️
 
 - **_Programming Languages_**: Python, SQL, Apache Spark, (Linux) Shell scripting
@@ -21,6 +17,7 @@
 - **_Machine Learning_**: MLFlow, TensorFlow, Scikit-learn, PyTorch
 - **_Data Manipulation_**: Pandas, NumPy, Pyspark
 - **_Vizusalisation_**: Matplotlib, Power BI, Seaborn 
+
 
 ### Projects 🚩
 
