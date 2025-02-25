@@ -6,7 +6,7 @@
 ### About Me 🚀
 
 🎓 I'm an experienced **Data Scientist** with 3+ YOE.</br>
-🔨 Specialising in developing **ETL pipelines** with additional focus on using **Machine learnings** tools (e.g. **MLFlow**, **SpaCy**, **Weightsandbiases**)</br>
+🔨 Specialising in developing **ETL pipelines** with a focus on using **Machine learnings** tools (e.g. **MLFlow**, **SpaCy**, **Weightsandbiases**)</br>
 👨‍💻 _Thinking of spending one long weekend RFI-tagging all my valuables so I dont have to buy an Apple Air Tag_ </br>
 
 
