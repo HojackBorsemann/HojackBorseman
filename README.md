@@ -20,9 +20,8 @@
 
 ### Projects 🚩
 
-- **_Training my own NLP models to analyse employee benefits from job descriptions_**: _
-- **_How to clean dirty location data_**:
-- **_Is the future of remote work here to stay in the UK? Time-series analysis_**: 
+- **[Training my own NLP models to analyse employee benefits from job descriptions**:](project-nlp-benefits-extraction) 
+- **[How to take dirty, unstructured location data -> normalised, structured location data!**:](project-normalising-location-data)
 
 
 ### What have I been up to? 📜 
