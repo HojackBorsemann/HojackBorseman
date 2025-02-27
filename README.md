@@ -21,7 +21,7 @@
 ### Projects 🚩
 
 - **[Training my own NLP models to analyse employee benefits from job descriptions:](https://github.com/HojackBorsemann/project-nlp-benefits-extraction)**
-- **[How to take dirty, unstructured location data -> normalised, structured location data!:](project-normalising-location-data/)**
+- **[How to take dirty, unstructured location data -> normalised, structured location data!:](https://github.com/HojackBorsemann/project-normalising-location-data)**
 
 
 ### What have I been up to? 📜 
