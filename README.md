@@ -20,7 +20,7 @@
 
 ### Projects 🚩
 
-- **[Training my own NLP models to analyse employee benefits from job descriptions:](project-nlp-benefits-extraction/)**
+- **[Training my own NLP models to analyse employee benefits from job descriptions:](project-nlp-benefits-extraction/README.md)**
 - **[How to take dirty, unstructured location data -> normalised, structured location data!:](project-normalising-location-data/)**
 
 
